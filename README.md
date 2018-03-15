@@ -7,6 +7,7 @@ Implementation:
 The founding team owns an address that is solely capable of minting and sending tokens to other addresses.
 
 totalSupply = 10,000,000,000
+
 pricePerToken = $0.01
 
 
